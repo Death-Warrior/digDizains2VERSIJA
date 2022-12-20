@@ -1,0 +1,44 @@
+.9_10 { 
+	overflow:hidden;
+}.e9_10 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e10_52 { 
+	width:75px;
+	height:75px;
+	position:absolute;
+	left:57px;
+	top:150px;
+	background-image:url(images/poga.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e10_54 { 
+	width:1440px;
+	height:575.667236328125px;
+	position:absolute;
+	left:0px;
+	top:150px;
+	background-image:url(images/teksts.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e10_48 { 
+	width:1340px;
+	height:122.83333587646484px;
+	position:absolute;
+	left:50px;
+	top:0px;
+	background-image:url(images/galva.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e10_50 { 
+	width:1440px;
+	height:2.1578421592712402px;
+	position:absolute;
+	left:0px;
+	top:121px;
+	background-image:url(images/linija.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
