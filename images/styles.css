@@ -1,0 +1,37 @@
+.e9_7 { 
+	overflow:hidden;
+	border:1px solid rgba(0, 0, 0, 1);
+}.e9_7 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e10_38 { 
+	width:1440px;
+	height:126.5934066772461px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/galva.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e10_44 { 
+	width:75px;
+	height:75px;
+	position:absolute;
+	left:35px;
+	top:127px;
+	background-image:url(images/poga.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e110_20 { 
+	width:977px;
+	height:316px;
+	position:absolute;
+	left:232px;
+	top:354px;
+	background-image:url(images/image_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

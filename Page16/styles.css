@@ -1,0 +1,71 @@
+.17_25 { 
+	overflow:hidden;
+}.e17_25 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e17_26 { 
+	width:75px;
+	height:75px;
+	position:absolute;
+	left:28px;
+	top:176px;
+	background-image:url(images/poga.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e17_27 { 
+	width:526px;
+	height:176px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/nosaukums.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e17_28 { 
+	width:196px;
+	height:73px;
+	position:absolute;
+	left:748px;
+	top:48px;
+	background-image:url(images/atbalsts.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e17_29 { 
+	width:441px;
+	height:66px;
+	position:absolute;
+	left:976px;
+	top:55px;
+	background-image:url(images/meklet.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e19_66 { 
+	width:550px;
+	height:394.5480651855469px;
+	position:absolute;
+	left:28px;
+	top:492px;
+	background-image:url(images/1050.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e19_64 { 
+	width:1265.200439453125px;
+	height:600px;
+	position:absolute;
+	left:175px;
+	top:424px;
+	background-image:url(images/apraksts.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e17_30 { 
+	width:1440px;
+	height:2.1578421592712402px;
+	position:absolute;
+	left:0px;
+	top:147px;
+	background-image:url(images/linija.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

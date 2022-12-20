@@ -1,0 +1,32 @@
+.16_156 { 
+	overflow:hidden;
+}.e16_156 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e16_157 { 
+	width:1440px;
+	height:128px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/galva.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_158 { 
+	width:232px;
+	height:216px;
+	position:absolute;
+	left:591px;
+	top:316px;
+}.e16_165 { 
+	width:419px;
+	height:419px;
+	position:absolute;
+	left:101px;
+	top:532px;
+	background-image:url(images/image_40.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

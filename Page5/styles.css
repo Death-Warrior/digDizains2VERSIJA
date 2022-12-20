@@ -1,0 +1,110 @@
+.16_20 { 
+	overflow:hidden;
+}.e16_20 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e16_21 { 
+	width:1214px;
+	height:301px;
+	position:absolute;
+	left:98px;
+	top:291px;
+}.e16_22 { 
+	width:333px;
+	height:301px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/image_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_23 { 
+	width:332px;
+	height:301px;
+	position:absolute;
+	left:882px;
+	top:0px;
+	background-image:url(images/image_7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_24 { 
+	width:333px;
+	height:298.3125px;
+	position:absolute;
+	left:441px;
+	top:0px;
+	background-image:url(images/image_6.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_29 { 
+	width:1440px;
+	height:128px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/galva.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_30 { 
+	width:232px;
+	height:216px;
+	position:absolute;
+	left:591px;
+	top:316px;
+}.e16_33 { 
+	width:249px;
+	height:185px;
+	position:absolute;
+	left:140px;
+	top:327px;
+	background-image:url(images/image_11.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_35 { 
+	width:245px;
+	height:239px;
+	position:absolute;
+	left:578px;
+	top:304px;
+	background-image:url(images/image_12.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_37 { 
+	width:289px;
+	height:178px;
+	position:absolute;
+	left:1001px;
+	top:327px;
+	background-image:url(images/image_13.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_131 { 
+	width:97px;
+	height:62px;
+	position:absolute;
+	left:216px;
+	top:532px;
+	background-image:url(images/image_30.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_133 { 
+	width:266px;
+	height:62px;
+	position:absolute;
+	left:578px;
+	top:528px;
+	background-image:url(images/image_31.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_135 { 
+	width:181px;
+	height:62px;
+	position:absolute;
+	left:1055px;
+	top:528px;
+	background-image:url(images/image_32.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

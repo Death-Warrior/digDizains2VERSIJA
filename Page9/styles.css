@@ -1,0 +1,59 @@
+.16_75 { 
+	overflow:hidden;
+}.e16_75 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e16_76 { 
+	width:1440px;
+	height:128px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/galva.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_77 { 
+	width:232px;
+	height:216px;
+	position:absolute;
+	left:591px;
+	top:316px;
+}.e16_80 { 
+	width:553px;
+	height:458px;
+	position:absolute;
+	left:20px;
+	top:465px;
+	background-image:url(images/image_19.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_82 { 
+	width:518px;
+	height:81px;
+	position:absolute;
+	left:38px;
+	top:424px;
+	background-image:url(images/image_20.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_84 { 
+	width:266px;
+	height:81px;
+	position:absolute;
+	left:164px;
+	top:893px;
+	background-image:url(images/image_21.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_88 { 
+	width:891px;
+	height:410px;
+	position:absolute;
+	left:535px;
+	top:505px;
+	background-image:url(images/image_23.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
